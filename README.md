@@ -20,7 +20,7 @@ In this project I created an LSTM based Model to predict the images given.
 ### Model Used
 
 #### LSTM 
-![LSTM](/Apple-Stock-Price-Prediction/images/LSTM_cell.png)
+![LSTM](images/LSTM_cell.png)
 
 ### Libraries used
 * pytorch
@@ -28,7 +28,7 @@ In this project I created an LSTM based Model to predict the images given.
 * os
 
 ### Loss-Epoch Curve
-![lossepoch](/Apple-Stock-Price-Prediction/images/Loss_Epoch_curve.png)
+![lossepoch](images/LSTM_cell.png)
 
 ### Prediction Curve
-![pred](/Apple-Stock-Price-Prediction/images/Prediction%20curve.png)
+![pred](images/LSTM_cell.png)
