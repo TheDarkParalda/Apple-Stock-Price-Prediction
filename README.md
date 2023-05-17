@@ -1,4 +1,4 @@
-# Apple-Stock-Price-Prediction
+# Apple Stock Price Prediction
 
 ## Goal
 Predict the last 60 close values of Apple stock using the previous open-close values given and the day's open value.
