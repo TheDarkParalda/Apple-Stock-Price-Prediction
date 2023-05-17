@@ -1,15 +1,15 @@
 # Apple-Stock-Price-Prediction
 
-### Goal
+## Goal
 Predict the last 60 close values of Apple stock using the previous open-close values given and the day's open value.
 
-### Dataset
+## Dataset
 Dataset given by Yahoo Finance on Apple.
 
-### Description
+## Description
 In this project I created an LSTM based Model to predict the images given.
 
-### Work Done
+## Work Done
 * Importing pytorch, mathplotlib for the solution
 * Creating the function that returns the LSTM based Model
 * Importing the data, Splitting the dataset to Train and Test (Validation) data and normalising them.
@@ -17,18 +17,17 @@ In this project I created an LSTM based Model to predict the images given.
 * Plotting the accuracy and loss per epoch
 * Plotting the close values and checking how close it is to the actual prices.
 
-### Model Used
-
-#### LSTM 
+## Model Used
+### LSTM 
 ![LSTM](images/LSTM_cell.png)
 
-### Libraries used
+## Libraries used
 * pytorch
 * Mathplotlib
 * os
 
-### Loss-Epoch Curve
+## Loss-Epoch Curve
 ![lossepoch](images/Loss_Epoch_curve.png)
 
-### Prediction Curve
+## Prediction Curve
 ![pred](images/Prediction%20curve.png)
