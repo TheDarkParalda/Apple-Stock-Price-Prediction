@@ -28,7 +28,7 @@ In this project I created an LSTM based Model to predict the images given.
 * os
 
 ### Loss-Epoch Curve
-![lossepoch](images/LSTM_cell.png)
+![lossepoch](images/Loss_Epoch_curve.png)
 
 ### Prediction Curve
-![pred](images/LSTM_cell.png)
+![pred](images/Prediction%20curve.png)
