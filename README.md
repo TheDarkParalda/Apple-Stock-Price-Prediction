@@ -16,6 +16,10 @@ In this project I created an LSTM based Model to predict the images given.
 * Training the model.
 * Plotting the accuracy and loss per epoch
 * Plotting the close values and checking how close it is to the actual prices.
+* Creating a simple trade algorithm to make money.
+* Calculate the Profits made and the Percentage of Profit from what could have been made.
+* Proving that the High and Low prices of a day does not depend on the Open value of the day.
+* Comparing the predicted candlestick with the real candlestick proving that High and Low values are wrong.
 
 ## Model Used
 ### LSTM 
@@ -26,8 +30,20 @@ In this project I created an LSTM based Model to predict the images given.
 * Mathplotlib
 * os
 
+## Correlation HeatMap
+![lossepoch](images/corrheat.png)
+
 ## Loss-Epoch Curve
 ![lossepoch](images/Loss_Epoch_curve.png)
 
 ## Prediction Curve
 ![pred](images/Prediction%20curve.png)
+
+## Trades Done using a Simple Algorithm
+#### Profit Made :
+#### Percentage of Profit that could have been made : 
+![pred](images/trades.png)
+
+
+
+
