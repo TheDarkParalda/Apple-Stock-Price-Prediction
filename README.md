@@ -40,7 +40,7 @@ In this project I created an LSTM based Model to predict the images given.
 ![pred](images/Prediction%20curve.png)
 
 ## Trades Done using a Simple Algorithm
-#### Profit Made : $6.6501465
+#### Profit Made using just 1 share : $6.6501465
 #### Investment used : *(Open Price of the Day)* 
 ![pred](images/trades.png)
 
