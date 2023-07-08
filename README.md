@@ -9,7 +9,7 @@ Dataset given by Yahoo Finance on Apple.
 ## Description
 In this project I created an LSTM based Model to predict the images given.
 
-## Work Done
+## Work Done 
 * Importing pytorch, mathplotlib for the solution
 * Creating the function that returns the LSTM based Model
 * Importing the data, Splitting the dataset to Train and Test (Validation) data and normalising them.
